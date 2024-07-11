@@ -8,15 +8,12 @@ input_process.py :
 
 - Selenium's Webdriver parses dates and prices.
 
-- If there is a flight by "Air Astana" and its cost is less than from certain amount
-h tarrifs generally cost little less than 16.000 tenge)
-
-it will send all offers via email using SMTP.
+- If there are flights by "Air Astana" and their cost is less than from certain amount (youth tarrifs generally cost little less than 16.000 tenge) it will send these offers via email using SMTP.
 
 
 <p>Data Parsing process</p>
 
-(yout![ScreenRecording2024-07-09at14 22 21-ezgif com-video-to-gif-converter](https://github.com/Akim-Edige/flight-offer-tracker/assets/115921160/ace6a3e0-975d-4bf2-a6dd-4f95966954fb)
+![ScreenRecording2024-07-09at14 22 21-ezgif com-video-to-gif-converter](https://github.com/Akim-Edige/flight-offer-tracker/assets/115921160/ace6a3e0-975d-4bf2-a6dd-4f95966954fb)
 
 
 <p>After parsing, email is send automatically</p>
